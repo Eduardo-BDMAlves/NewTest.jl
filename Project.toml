@@ -1,0 +1,7 @@
+name = "NewTest"
+uuid = "5f988c63-34ef-52a7-9665-14a14b44e0cd"
+authors = ["Eduardo Alves <eduardo.alves@polo.ufsc.br> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"

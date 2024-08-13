@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+AnswerStrategy: recommended
+AuthorEmail: eduardo.alves@polo.ufsc.br
+AuthorName: Eduardo Alves
+Indentation: 4
+JuliaMinVersion: '1.10'
+License: MIT
+PackageName: NewTest
+PackageOwner: Eduardo-BDMAlves
+PackageUUID: 5f988c63-34ef-52a7-9665-14a14b44e0cd
+_commit: v0.9.1
+_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
