@@ -9,4 +9,4 @@ PackageName: NewTest
 PackageOwner: Eduardo-BDMAlves
 PackageUUID: 5f988c63-34ef-52a7-9665-14a14b44e0cd
 _commit: v0.9.1
-_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
+_src_path: https://github.com/JuliaBesties/BestieTemplate.jl
